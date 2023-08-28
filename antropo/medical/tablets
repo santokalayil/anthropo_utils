@@ -1,0 +1,22 @@
+- cheston cold: 
+    for: cold and cough
+    dose ratio: 
+    usage: 1-1-1 
+    contents: 
+        - paracetamol
+        - cetricine
+
+- dolo:
+    for: cold and fever
+    dose ratio: 650 mg (adult) 500 mg (child)
+    contents:
+        - paracetamol
+
+- monticope:
+    for: alergic problem, use before sleep at night to prevent breathing issue and nasal closure after sleep
+    info: Montelukast Sodium & Levocetricine Hydrochloride Tablets IP
+    notes: Regular use every night until issue is fully resolved. 
+    usage: 0:0:1 * 10 days
+
+
+    

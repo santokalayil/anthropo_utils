@@ -1,0 +1,38 @@
+syrops:
+    - astalin syrop:
+        for: breathing issues and chest related infections
+
+sprays:
+    nose:
+        - Furamist nasal sprayn (or flomist):
+            dosage ratio: 2 puffs
+            usage: 1-0-1 * 2 weeks  (1 dosage = 2 puffs)
+            details: 500 Rupees approximately for one bottle
+        
+drops:
+    nose:
+        - Botroclot solution:
+            dosage ratio: 3 drops
+            usage: 1-1-1
+            for: wound inside the nasal cavity
+
+    eye: 
+    ear: 
+
+nebulization [inhalation solutions]:
+    - levolin:
+        dosage ratio: 0.63 mg
+        usage: upto times a day
+        info: Levosalbutamol Inhalation Solution, price 32.55 Rs, 
+        details:
+            non-steriod - low dose, low priced
+    - duolin:
+        details:
+            non-steroid - high dose
+    - budecort:
+        dosa ratio: 0.5 mg
+        details: comparitively mild steroid
+    - foracort:
+        details: high steroid, high priced
+
+            
